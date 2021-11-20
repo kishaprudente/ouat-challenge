@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'ACaslonPro';
+  src: local('ACaslonPro'), url('./fonts/ACaslonPro-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Springville';
+  src: local('Springville'), url('./fonts/Springville-Regular3.otf') format('truetype');
+}
